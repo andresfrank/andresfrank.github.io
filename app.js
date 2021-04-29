@@ -1,8 +1,8 @@
 new Vue({
 	el:'#app',
 	data: {
-		welcome:"Thank you for coming to my website!",
-		msg: "I'm still building it, so please try again at a later date.",
+		welcome:"Hi, I'm Andrés Frank. Thank you for visiting my website!",
+		msg: "I'm sorry there is not much here yet, I'm still working on it. Please come back in a few weeks (months? years?)",
 	},
 	methods: {
 	},
